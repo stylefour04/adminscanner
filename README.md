@@ -4,3 +4,5 @@
 
 #### pip install requests
 #### git clone https://github.com/stylefour04/adminscanner.git
+#### cd adminscanner
+#### python3 scanner.py
