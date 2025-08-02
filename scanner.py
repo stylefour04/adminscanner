@@ -40,7 +40,7 @@ def scan_admin_login(domain):
         "/admin/", "/administrator/", "/login/", "/wp-admin/", "/wp-login.php",
         "/backend/", "/panel/", "/cpanel/", "/webadmin/", "/siteadmin/",
         "/user/", "/useradmin/", "/bb-admin/", "/memberadmin/", "/adminarea/",
-        "/admin1/", "/admin2/", "/admin3/", "/moderator/", "/moderatoradmin/",
+        "/admin1/", "/admin2/", "/uploads", "/admin3/", "/moderator/", "/moderatoradmin/",
         "/accounts/", "/account/", "/controlpanel/", "/cp/", "/phpadmin/",
         "/phpMyAdmin/", "/shell/", "/server/", "/config/", "/configuration/",
         "/database/", "/dbadmin/", "/sqladmin/", "/websql/", "/myadmin/",
